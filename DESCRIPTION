@@ -7,6 +7,7 @@ Author:
     Santiago Chaparro, Briam Agudelo (NDerivación de N Puntos)
     Diego Barajas, Brandonn Cruz (Métodos Richardson)
     Andrés Felipe Mariño, Javier Esteban Marín (Spline Cúbico)
+    Catalina Morales, Camilo Hoyos (Spline y Hermite)
     David molano, Dorian Moreno (Interpolación Parámetrica de Lagrange)
     Maria Fernanda Garces, Juan Sebastian Leon (SMRoot)
     Andrés Mendoza, Camilo serrano (Método Newton) <biseccion.R, newton.R>
