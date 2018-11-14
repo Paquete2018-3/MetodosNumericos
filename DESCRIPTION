@@ -15,7 +15,7 @@ Author:
     Jonathan Esteban Molina Castañeda, Felipe Andrés Gutierrez Naranjo (Euler para EDO)
     Pablo Millan, Oscar Fonseca (Euler para EDO No Lineal)
     Laura Donado, Jhonny Parra (Métodos Runge Kutta 3 y Runge Kutta 4)
-    David Leonardo Gómez (Mantenimiento)
+    David Leonardo Gómez, Ericka Torres, Leyder Vera (Mantenimiento)
 Maintainer: David Leonardo Gómez <go-david@javeriana.edu.co>
 Description: La funcion de este paquete es contener métodos númericos para
     hallar raices, derivar, integrar, interpolar y resolver ecuaciones
