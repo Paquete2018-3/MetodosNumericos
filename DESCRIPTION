@@ -1,0 +1,30 @@
+Package: metnum
+Type: Package
+Title: MetodosNumericos
+Version: 1.0.0
+Author: 
+    Valentina Escobar, Pedro Escobar (Métodos de Simpson)
+    Santiago Chaparro, Briam Agudelo (NDerivación de N Puntos)
+    Diego Barajas, Brandonn Cruz (Métodos Richardson)
+    Andrés Felipe Mariño, Javier Esteban Marín (Spline Cúbico)
+    David molano, Dorian Moreno (Interpolación Parámetrica de Lagrange)
+    Maria Fernanda Garces, Juan Sebastian Leon (SMRoot)
+    Andrés Mendoza, Camilo serrano (Método Newton) <biseccion.R, newton.R>
+    Daniela Beltran Saavedra, Nicolas Duarte Ospina (Punto Fijo, Posición Falsa, Secante)
+    Jonathan Esteban Molina Castañeda, Felipe Andrés Gutierrez Naranjo (Euler para EDO)
+    Pablo Millan, Oscar Fonseca (Euler para EDO No Lineal)
+Maintainer: There is no actual mantainer <yourself@somewhere.any>
+Description: La funcion de este paquete es contener métodos númericos para
+    hallar raices, derivar, integrar, interpolar y resolver ecuaciones
+    diferenciales.
+License: LGPL (>=v3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+Imports:
+    ggplot2,
+    rSymPy,
+    PolynomF,
+    pracma,
+    graphics,
+    phaseR
